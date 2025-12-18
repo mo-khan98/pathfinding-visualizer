@@ -1,0 +1,5 @@
+This is a simple pathfinding algorthim visualizer in Java.
+To run this program:
+
+1. Install Java (JRE) on your computer
+2. run the file Main.java
